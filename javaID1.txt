@@ -1,0 +1,10 @@
+java pro
+
+class A{
+
+System.out.println("Hello GitHub");
+
+system.out.println("hello java");
+
+
+}
